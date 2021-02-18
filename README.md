@@ -1,2 +1,2 @@
-# EMI-INDO ADDON-BUG Report
+# EMI-INDO C3addon bug reports
 Report the addon crash here.
